@@ -123,7 +123,7 @@ label.logo {
     text-align: center;
   }
   nav ul li a {
-    font-size: 16px;
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 858px) {
