@@ -118,7 +118,7 @@ label.logo {
 
 @media screen and (max-width: 952px) {
   label.logo {
-    font-size: 12px;
+    font-size: 30px;
     padding-left: 50px;
     text-align: center;
   }
