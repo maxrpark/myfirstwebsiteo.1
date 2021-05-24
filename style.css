@@ -84,7 +84,7 @@ nav ul li {
 }
 nav ul li a {
   color: #f5fdc6;
-  font-size: 17px;
+  font-size: 1rem;
   padding: 7px 13px;
   border-radius: 3px;
   text-transform: uppercase;
@@ -151,7 +151,7 @@ label.logo {
 }
 @media screen and (max-width: 795px) {
   label.logo {
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding-left: 2rem;
     text-align: center;
   }
