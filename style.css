@@ -116,17 +116,7 @@ label.logo {
   font-weight: bold;
 }
 
-@media screen and (max-width: 952px) {
-  label.logo {
-    font-size: 24px;
-    padding-left: 50px;
-    text-align: center;
-  }
-  nav ul li a {
-    font-size: 36px;
-  }
-}
-@media screen and (max-width: 858px) {
+@media screen and (max-width: 768px) {
   .checkbtn {
     display: block;
   }
@@ -157,6 +147,16 @@ label.logo {
   }
   #check:checked ~ ul {
     left: 0;
+  }
+}
+@media screen and (max-width: 795px) {
+  label.logo {
+    font-size: 1.2rem;
+    padding-left: 2rem;
+    text-align: center;
+  }
+  nav ul li a {
+    font-size: 1rem;
   }
 }
 
